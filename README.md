@@ -2,7 +2,7 @@
 DDoS (Distributed Denial of Service) attacks are a type of cyber attack where multiple compromised systems flood a targeted server or network with traffic, overwhelming it and rendering it unavailable to legitimate users. In this writeup, we will guide you through the process of setting up and using various DDoS tools to conduct a DDoS attack.
 
 
-Title: How to Install and Use DDoS Tools
+# How to Install and Use DDoS Tools
 
 Introduction:
 DDoS (Distributed Denial of Service) attacks are a type of cyber attack where multiple compromised systems flood a targeted server or network with traffic, overwhelming it and rendering it unavailable to legitimate users. In this writeup, we will guide you through the process of setting up and using various DDoS tools to conduct a DDoS attack.
@@ -11,7 +11,7 @@ Prerequisites:
 - A Linux machine with at least 2 GB of RAM and a stable internet connection.
 - Basic knowledge of command-line interface (CLI).
 
-Installation and Usage:
+### Installation and Usage:
 1. LOIC (Low Orbit Ion Cannon):
    - Install Mono on your Linux machine.
      ```bash
@@ -183,12 +183,12 @@ Installation and Usage:
      hping3 -S 192.168.1.100 -p 80 -i u1000 -c 10000
      ```
 
-Disclaimer:
+### Disclaimer:
 Please note that conducting a DDoS attack is illegal and unethical. The use of these tools should be done with caution and for educational purposes only. The author is not responsible for any misuse or damage caused by the tools.
 
 Remember to obtain proper authorization from the target system before conducting any DDoS attack.
 
-Conclusion:
+### Conclusion:
 By following this writeup, you should now have a basic understanding of how to install and use various DDoS tools. Remember to conduct such attacks responsibly and with proper authorization.
 
 This writeup provides a comprehensive guide on how to install and use various DDoS tools. It covers installation steps, command usage, and provides examples for each tool. Remember to conduct DDoS attacks responsibly and with proper authorization.
